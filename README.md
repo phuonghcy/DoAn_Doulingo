@@ -8,7 +8,7 @@
 <h1 align="center"><b>IE307.M11 - Công nghệ lập trình đa nền tảng cho ứng dụng di động</b></h1>
 
 ## ĐỒ ÁN MÔN HỌC
-* Tên đồ án: **Mô phỏng ứng dụng học Tiếng Anh trực tuyến DOULINGO**
+* Tên đồ án: **Mô phỏng ứng dụng học Tiếng Anh trực tuyến DUOLINGO**
 
 ## GIẢNG VIÊN HƯỚNG DẪN
 * **ThS. Võ Ngọc Tân**
@@ -22,4 +22,4 @@
 | 3      | 1951819       | Trần Hồng Cẩm Ly       | 19521819@gm.uit.edu.vn   |
 
 ## CÁC CÔNG NGHỆ SỬ DỤNG
-Xamarin, XAML, C#
+Xamarin, XAML, C#, SQL Server.
