@@ -5,7 +5,7 @@
 </p>
 
 <!-- Title -->
-<h1 align="center"><b>IE213.M21 - Kỹ thuật phát triển hệ thống Web</b></h1>
+<h1 align="center"><b>IE307.M11 - Công nghệ lập trình đa nền tảng cho ứng dụng di động</b></h1>
 
 ## ĐỒ ÁN MÔN HỌC
 * Tên đồ án: **Mô phỏng ứng dụng học Tiếng Anh trực tuyến DOULINGO**
